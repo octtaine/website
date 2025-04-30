@@ -37,12 +37,12 @@ with col4:
     st.image("https://npu.gov.ua/assets/main/img/slidchiy.jpg", caption="Слідчий відділ", use_column_width=True)
     st.write("Займається документуванням злочинів, збором доказів, слідчими діями.")
 
-# Додаткова інформація
+# Контакти
 st.header("📞 Контакти")
 
 st.markdown("""
-- **Гаряча лінія поліції**: 102  
-- **Офіційний сайт**: [npu.gov.ua](https://npu.gov.ua)  
+- **Гаряча лінія поліції**: 102
+- **Офіційний сайт**: [npu.gov.ua](https://npu.gov.ua)
 - **Facebook**: [facebook.com/UA.Police](https://www.facebook.com/UA.Police)
 """)
 
