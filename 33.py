@@ -4,7 +4,7 @@ st.set_page_config(page_title="Поліція України", page_icon="🛡�
 
 # Заголовок
 st.title("🛡️ Національна поліція України")
-st.image("https://npu.gov.ua/assets/main/images/logo.png", width=200)
+st.image("123.png", width=200)
 
 st.markdown("""
 Національна поліція України — це центральний орган виконавчої влади, який забезпечує охорону правопорядку, прав і свобод громадян.
