@@ -15,24 +15,24 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.subheader("🚓 Патрульна поліція")
-    st.image("127.png", caption="Патрульна поліція", use_column_width=True)
+    st.image("127.png", caption="Патрульна поліція", use_container_width=True)
     st.write("Забезпечує безпеку на вулицях, регулює дорожній рух, реагує на виклики громадян.")
 
 with col2:
     st.subheader("🕵️ Кримінальна поліція")
-    st.image("124.png", caption="Кримінальна поліція", use_column_width=True)
+    st.image("124.png", caption="Кримінальна поліція", use_container_width=True)
     st.write("Розслідує кримінальні правопорушення, займається боротьбою зі злочинністю.")
 
 col3, col4 = st.columns(2)
 
 with col3:
     st.subheader("👮 Спеціальні підрозділи")
-    st.image("125.png", caption="Спецпідрозділи", use_column_width=True)
+    st.image("125.png", caption="Спецпідрозділи", use_container_width=True)
     st.write("Призначені для боротьби з організованою злочинністю, тероризмом, охорони масових заходів.")
 
 with col4:
     st.subheader("🧑‍💼 Слідчий відділ")
-    st.image("126.png", caption="Слідчий відділ", use_column_width=True)
+    st.image("126.png", caption="Слідчий відділ", use_container_width=True)
     st.write("Займається документуванням злочинів, збором доказів, слідчими діями.")
 
 st.header("📞 Контакти")
